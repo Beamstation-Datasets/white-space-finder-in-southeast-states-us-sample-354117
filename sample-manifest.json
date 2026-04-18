@@ -1,12 +1,12 @@
 {
-  "export_job_id": "52e231e6-400b-4578-9e74-3bdae3933b23",
+  "export_job_id": "4ae38e57-fbf5-4017-b522-f38f10fd421f",
   "id_short": 354117,
-  "published_at": "2026-04-12T19:03:27Z",
+  "published_at": "2026-04-18T07:56:40Z",
   "repo_name": "white-space-finder-in-southeast-states-us-sample-354117",
   "sample_asset_name": "beamstation_354117_food_and_drink-xx-all_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/354117/beamstation_354117_food_and_drink-xx-all_SAMPLE_DIST.csv",
-  "sample_records": 21,
-  "sample_sha256": "7c92b3f316bbe7ddbb58bc39f5a47864d8b7e998c4ea5e83a8905947364047e1",
-  "sample_size_bytes": 92889,
-  "total_records": 211
+  "sample_records": 20,
+  "sample_sha256": "dadda72dc24775d0e8733594cbca9fed54b472102b4e32c6e039afce5c907622",
+  "sample_size_bytes": 89020,
+  "total_records": 204
 }
